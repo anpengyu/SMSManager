@@ -24,6 +24,7 @@ public class MainActivity extends TabActivity implements View.OnClickListener {
 
         initTabHost();
 
+
     }
 
     private void initTabHost() {
